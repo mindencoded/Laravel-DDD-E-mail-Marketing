@@ -1,0 +1,68 @@
+{
+    "plugins": [
+        {
+            "type": "add",
+            "pluginName": "fleet.ai"
+        },
+        {
+            "type": "add",
+            "pluginName": "fleet.amper"
+        },
+        {
+            "type": "add",
+            "pluginName": "fleet.css"
+        },
+        {
+            "type": "add",
+            "pluginName": "fleet.schema"
+        },
+        {
+            "type": "add",
+            "pluginName": "fleet.dap"
+        },
+        {
+            "type": "add",
+            "pluginName": "fleet.diff"
+        },
+        {
+            "type": "add",
+            "pluginName": "fleet.emmet"
+        },
+        {
+            "type": "add",
+            "pluginName": "fleet.git.frontend"
+        },
+        {
+            "type": "add",
+            "pluginName": "fleet.xml"
+        },
+        {
+            "type": "add",
+            "pluginName": "fleet.image.view"
+        },
+        {
+            "type": "add",
+            "pluginName": "fleet.intellij"
+        },
+        {
+            "type": "add",
+            "pluginName": "fleet.json"
+        },
+        {
+            "type": "add",
+            "pluginName": "fleet.javascript"
+        },
+        {
+            "type": "add",
+            "pluginName": "fleet.php"
+        },
+        {
+            "type": "add",
+            "pluginName": "fleet.wsl"
+        },
+        {
+            "type": "add",
+            "pluginName": "fleet.shell"
+        }
+    ]
+}
